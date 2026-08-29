@@ -11,9 +11,5 @@ public class Arrays{
             valor = teclado.nextInt();
             arrpolinomio[i] = valor;
         }
-        System.out.println("Imprimir Arreglo:");
-        for(int i=0; i<tam; i++){
-            System.out.print(arrpolinomio[i] + " ");
-        }
     }
 }
