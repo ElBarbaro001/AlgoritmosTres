@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int n;
+    int n=0;
     cout << "Ingrese la dimension del arreglo: ";
     cin >> n;
     // Crear un arreglo dinámico
