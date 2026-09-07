@@ -1,3 +1,10 @@
 Compilador de C++
 
 https://sourceforge.net/projects/mingw/
+
+Compilar y ejecutar el archivo
+
+Ingresar al directorio y abrir la terminal.
+
+1 - g++ "Nombre del archivo" -o "Nuevo nombre". g++ Arrays.cpp -o Array
+2 - .\"Nuevo nombre". .\Array
